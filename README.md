@@ -12,4 +12,4 @@ The code will output the analysis to the console in the following format:
 
 ## Usage
 
-To use this application, go to: . Open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).
+To use this application, go to: https://lentiodev.github.io/Console-Finances/. Open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).
